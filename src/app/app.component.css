@@ -1,0 +1,16 @@
+header {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+footer > p {
+  color: gray;
+}
