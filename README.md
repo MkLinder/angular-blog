@@ -1,10 +1,14 @@
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. <br>
-Este projeto foi, inicialmente, desenvolvido no curso da DIO, e é um projeto piloto.
+Para desenvolver este projeto foram usadas as tecnologias: 
 <br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,nodejs,typescript,angular)](https://skillicons.dev) 
 
 ##
+Este projeto foi, inicialmente, desenvolvido no curso da DIO, e é um projeto piloto.
+<br>
 Um blog onde podemos pautar notícias de um ou mais nichos, que compõe uma matéria principal do lado esquerdo e as demais ao lado direito. Quando clicadas, as matérias completas são expostas em uma nova página. <br>
 Em cima, um menu clicável que abre, em uma nova guia, as redes sociais do blog.
  
